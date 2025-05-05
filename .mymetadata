@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CarTrade"
+  id="myeclipse.1399036222500"
+  context-root="/CarTrade"
+  j2ee-spec="5.0"
+  archive="CarTrade.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebContent" />
+  </attributes>
+</project-module>
+
